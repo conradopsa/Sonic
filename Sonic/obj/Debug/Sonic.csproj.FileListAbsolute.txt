@@ -1,0 +1,10 @@
+C:\Users\Derp\source\repos\Sonic\Sonic\bin\Debug\Sonic.exe.config
+C:\Users\Derp\source\repos\Sonic\Sonic\bin\Debug\Sonic.exe
+C:\Users\Derp\source\repos\Sonic\Sonic\bin\Debug\Sonic.pdb
+C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.csprojAssemblyReference.cache
+C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.Form1.resources
+C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.Properties.Resources.resources
+C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.csproj.GenerateResource.cache
+C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.csproj.CoreCompileInputs.cache
+C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.exe
+C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.pdb
