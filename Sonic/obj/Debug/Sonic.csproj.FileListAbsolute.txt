@@ -8,3 +8,6 @@ C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.csproj.GenerateResource.c
 C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.csproj.CoreCompileInputs.cache
 C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.exe
 C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.pdb
+C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.csproj.CopyComplete
+C:\Users\Derp\source\repos\Sonic\Sonic\obj\Debug\Sonic.SetarValor.resources
+C:\Users\Derp\source\repos\Sonic\Sonic\bin\Debug\Supreme Components.dll

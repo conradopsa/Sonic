@@ -63,6 +63,56 @@ namespace Sonic.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Argola {
+            get {
+                object obj = ResourceManager.GetObject("Argola", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Esfera {
+            get {
+                object obj = ResourceManager.GetObject("Esfera", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap MetalSonic {
+            get {
+                object obj = ResourceManager.GetObject("MetalSonic", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Robotnik {
+            get {
+                object obj = ResourceManager.GetObject("Robotnik", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sinalizador {
+            get {
+                object obj = ResourceManager.GetObject("Sinalizador", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Sonic {
             get {
                 object obj = ResourceManager.GetObject("Sonic", resourceCulture);
@@ -76,6 +126,16 @@ namespace Sonic.Properties {
         internal static System.Drawing.Bitmap Tails {
             get {
                 object obj = ResourceManager.GetObject("Tails", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap teste {
+            get {
+                object obj = ResourceManager.GetObject("teste", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
